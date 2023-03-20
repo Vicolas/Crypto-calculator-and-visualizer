@@ -22,7 +22,7 @@ st.markdown('----')
 # About
 expander_bar = st.expander("About")
 expander_bar.markdown("""
-* **A crypto calculator to check cryptocurrency prices and visisual dashboard to view daily closing price of selected cryptocurrencies!**
+* **A crypto calculator to check cryptocurrency prices and visual dashboard to view daily closing price of selected cryptocurrencies!**
 * **Credit:** This is a modification of the work of **Bek Brace** a great teacher whose works inspire me.
 """)
 
@@ -46,9 +46,9 @@ st.markdown('----')
 
 st.markdown('----')
 
-st.header('**Visualizing Selected Daily Closing Price**')
+st.header('**Visualizing Cryptocurrency Daily Closing Price!**')
 st.markdown("""
-Thie dashboard visualizes prices of 5 distinct cryptocurrencies from the **CoinMarketCap** 
+Thie dashboard visualizes prices of 5 distinct cryptocurrencies from **CoinMarketCap** 
 """)
 #defining the ticker symbol
 Bitcoin = 'BTC-USD'
@@ -115,16 +115,3 @@ st.write('BitcoinCash ($)')
 imageBCH = Image.open(urlopen('https://s2.coinmarketcap.com/static/img/coins/64x64/1831.png'))
 st.image(imageBCH)
 st.bar_chart(BCHhis.Close)
-
-
-
-
-
-
-
-
-
-
-
-
-
