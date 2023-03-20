@@ -1,4 +1,4 @@
-[CLICK ME TO USE CRYPTO THE CALCULATOR](https://vicolas-crypto-calculator-and-visualizer-crypto-v7wr57.streamlit.app/"View")
+[CLICK ME TO USE THE CRYPTO CALCULATOR](https://vicolas-crypto-calculator-and-visualizer-crypto-v7wr57.streamlit.app/"View")
 # Crypto-calculator-and-visualizer
 
 This crypto price calculator allows you to calculate the price of a cryptocurrency in another currency. 
